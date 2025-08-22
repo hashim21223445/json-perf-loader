@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "loader-utils": "^2.0.0",
-    "schema-utils": "^3.0.0"
+    "schema-utils": "^3.3.0"
   },
   "devDependencies": {
     "codecov": "^3.8.3",
